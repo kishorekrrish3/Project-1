@@ -1,0 +1,171 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div-2 {
+  background-color: #ffffff;
+  height: 2234px;
+  position: relative;
+  width: 1728px;
+}
+
+.desktop .frame-5 {
+  background-image: url(../../../static/img/frame-201.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1117px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.desktop .overlap-group-wrapper {
+  height: 50px;
+  left: 696px;
+  position: absolute;
+  top: 56px;
+  width: 336px;
+}
+
+.desktop .overlap-group-3 {
+  height: 53px;
+  left: -1px;
+  position: relative;
+  top: -2px;
+  width: 339px;
+}
+
+.desktop .vector {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.desktop .img {
+  height: 44px;
+  left: 292px;
+  position: absolute;
+  top: 9px;
+  width: 47px;
+}
+
+.desktop .vector-2 {
+  height: 45px;
+  left: 43px;
+  position: absolute;
+  top: 1px;
+  width: 253px;
+}
+
+.desktop .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Amatic SC", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .frame-6 {
+  height: 18px;
+  left: 87px;
+  position: absolute;
+  top: 14px;
+  width: 39px;
+}
+
+.desktop .frame-7 {
+  height: 18px;
+  left: 214px;
+  position: absolute;
+  top: 14px;
+  width: 39px;
+}
+
+.desktop .component-14 {
+  left: 243px !important;
+  position: absolute !important;
+  top: 265px !important;
+}
+
+.desktop .page {
+  background-image: url(../../../static/img/page-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1117px;
+  left: 0;
+  position: absolute;
+  top: 1117px;
+  width: 1728px;
+}
+
+.desktop .overlap-3 {
+  background-image: url(../../../static/img/rectangle-4124.svg);
+  background-size: 100% 100%;
+  height: 1117px;
+  position: relative;
+}
+
+.desktop .frame-8 {
+  height: 138px;
+  left: 235px;
+  position: absolute;
+  top: 124px;
+  width: 224px;
+}
+
+.desktop .overlap-group-4 {
+  height: 138px;
+  position: relative;
+  top: -1px;
+}
+
+.desktop .text-wrapper-9 {
+  color: #ffca28;
+  font-family: "Satisfy", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 8px 0px 0px #0000004c;
+  top: 0;
+}
+
+.desktop .line {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 106px;
+  width: 224px;
+}
+
+.desktop .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Amatic SC", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 235px;
+  letter-spacing: 1.44px;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+  width: 1258px;
+}
+
+.desktop .property-variant {
+  left: 489px !important;
+  position: absolute !important;
+  top: 558px !important;
+}

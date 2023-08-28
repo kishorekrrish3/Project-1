@@ -1,0 +1,161 @@
+.component {
+  position: relative;
+  width: 1241px;
+}
+
+.component .frame {
+  left: 276px;
+  position: absolute;
+}
+
+.component .overlap-group {
+  height: 272px;
+  position: relative;
+}
+
+.component .div {
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 471px;
+}
+
+.component .text-wrapper {
+  color: #000000;
+  font-family: "Satisfy", Helvetica;
+  font-size: 128px;
+  font-weight: 400;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 4px 0px 0px #04ba95;
+  top: 4px;
+  white-space: nowrap;
+  width: 323px;
+}
+
+.component .text-wrapper-2 {
+  color: #000000;
+  font-family: "Amatic SC", Helvetica;
+  font-size: 72px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 54px;
+}
+
+.component .frame-2 {
+  height: 146px;
+  left: 192px;
+  position: absolute;
+  top: 126px;
+  width: 497px;
+}
+
+.component .text-wrapper-3 {
+  color: #000000;
+  font-family: "Satisfy", Helvetica;
+  font-size: 128px;
+  font-weight: 400;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 4px 0px 0px #04ba95;
+  top: 4px;
+  white-space: nowrap;
+  width: 352px;
+}
+
+.component .frame-wrapper {
+  left: 446px;
+  position: absolute;
+}
+
+.component .div-wrapper {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 142px;
+  position: relative;
+}
+
+.component .text-wrapper-4 {
+  color: #000000;
+  font-family: "Amatic SC", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+}
+
+.component .p {
+  color: #000000;
+  font-family: "Amatic SC", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  width: 1238px;
+}
+
+.component.component-12 {
+  height: 1075px;
+}
+
+.component.component-13 {
+  height: 1556px;
+}
+
+.component.component-12 .frame {
+  height: 272px;
+  top: 0;
+  width: 689px;
+}
+
+.component.component-13 .frame {
+  opacity: 0;
+  top: 278px;
+}
+
+.component.component-13 .overlap-group {
+  width: 689px;
+}
+
+.component.component-12 .frame-wrapper {
+  height: 142px;
+  top: 486px;
+  width: 350px;
+}
+
+.component.component-13 .frame-wrapper {
+  opacity: 0;
+  top: 1414px;
+}
+
+.component.component-12 .div-wrapper {
+  background-image: url(../../../static/img/frame-196.png);
+}
+
+.component.component-13 .div-wrapper {
+  background-image: url(../../../static/img/frame-196-1.png);
+  width: 350px;
+}
+
+.component.component-12 .p {
+  top: 325px;
+}
+
+.component.component-13 .p {
+  opacity: 0;
+  top: 949px;
+}

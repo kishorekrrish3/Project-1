@@ -1,0 +1,91 @@
+.property {
+  height: 422px;
+  position: relative;
+  width: 750px;
+}
+
+.property .overlap {
+  background-color: #ffffff;
+  border-radius: 40px;
+  height: 42px;
+  left: 99px;
+  position: absolute;
+  top: 75px;
+  width: 552px;
+}
+
+.property .text-wrapper-5 {
+  color: #a5a5a5;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 58px;
+}
+
+.property .overlap-group-2 {
+  background-color: #ffffff;
+  border-radius: 40px;
+  height: 42px;
+  left: 99px;
+  position: absolute;
+  top: 144px;
+  width: 552px;
+}
+
+.property .text-wrapper-6 {
+  color: #a5a5a5;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.property .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 40px;
+  height: 42px;
+  left: 99px;
+  position: absolute;
+  top: 213px;
+  width: 552px;
+}
+
+.property .frame-3 {
+  height: 46px;
+  left: 287px;
+  position: absolute;
+  top: 279px;
+  width: 177px;
+}
+
+.property .frame-4 {
+  background-color: #000000;
+  border-radius: 40px;
+  height: 46px;
+  position: relative;
+}
+
+.property .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
